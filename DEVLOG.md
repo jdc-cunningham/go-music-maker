@@ -1,3 +1,15 @@
+05/05/2024
+
+9:29 PM
+
+I was thinking about this today and I think it makes sense to make one of those small portions of a piano keyboard
+
+idk how to play music so yeah I'm just going at this blind
+
+<img src="./devlog-images/keyboard.JPG"/>
+
+---
+
 05/04/2024
 
 7:32 PM
