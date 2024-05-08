@@ -1,3 +1,15 @@
+05/07/2024
+
+I got sidetracked with the modular pi cam project but... I was thinking about this
+
+The piano thing... I have a touch screen device still the ASUS C100P which is a chromebook from 2012 lol
+
+I have linux running on it via Crosh will see if that can make a go binary or execute on it somehow
+
+Then I can play a little piano on that screen
+
+---
+
 05/05/2024
 
 9:29 PM
