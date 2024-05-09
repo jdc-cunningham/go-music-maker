@@ -1,3 +1,24 @@
+- [ ] compile code on ASUS C100P Crosh Linux SD card xenial I think
+  - it has 10-finger multi touch so that won't be a problem, size will be though
+    for the song I want to play as a successful demo
+- [ ] MVP
+  - [ ] create a partial piano UI
+    - touch support
+  - [ ] make sound
+    - then make it sound normal for a piano
+
+05/08/2024
+
+6:28 PM
+
+Been sidetracked with life
+
+6:51 PM
+
+Just reading up on stuff
+
+---
+
 05/07/2024
 
 I got sidetracked with the modular pi cam project but... I was thinking about this
